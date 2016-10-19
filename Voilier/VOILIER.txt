@@ -1,0 +1,13 @@
+GIROUETTE :
+
+2 voies : a et b, compteur incrementale, un periph gère ça, envoyer les voies sur le bon périph
+
+si 0 < alpha < 45 -> teta = 0
+
+si 45 < alpha < 180 -> teta = (alpha - 45 ) / 1.5
+
+PREMIERE FONCTION :
+
+Recevoir les infos de la girouette (grace aux voies A et B, mettre le zero sur un trou) et en focntion de alpha, regler teta
+
+Pour regler TETA : rapport cylique 
